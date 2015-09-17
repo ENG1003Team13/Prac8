@@ -5,9 +5,11 @@ Tak Ly
 Newton Jon
  
 Jeffrey Fernandez
+My name is Jeff1
  
 Jonathan Braver
 
+<<<<<<< HEAD
 TAK
 
 Bac. Eng & Comm
@@ -17,3 +19,5 @@ No Pain, No Gain BOY!!!
 Role in project: team member, coder, timekeeper
 
 Preferred Branch of engineering: Civil
+=======
+>>>>>>> JEFFREY
